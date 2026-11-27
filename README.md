@@ -17,7 +17,6 @@ Midget Sani, Bitcoin Obama's midget: the man with dwarfism who stars in his prom
 
 ## Midget Sani links
 
-- On X: [@midget](https://x.com/midget)
 - Wiki page: https://bitcoinobama.com/midget
 - SillyTavern character card: https://github.com/cryptoiscrack/midget-sani-sillytavern-card
 
